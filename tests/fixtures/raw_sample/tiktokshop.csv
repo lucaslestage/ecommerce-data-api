@@ -1,0 +1,6 @@
+order_id,date,creator_average_comments,creator_id,creator_name,creator_niche,creator_followers,product_id,product_category,product_price,product_cost,country,campaign_id,campaign_spend,video_id,video_views,likes,customer_id,quantity_per_order,final_price,inventory_remaining,refund_amount
+ORD_1,2025-01-10,100,CRT_A,Alice,Travel,1000,PROD_1,Kitchen,40.0,20.0,France,CAMP_1,500.0,VID_1,1000,100,CUST_1,0.0,40.0,100.0,0.0
+ORD_1,2025-01-10,100,CRT_A,Alice,Beauty,999,PROD_2,Beauty,10.0,4.0,France,CAMP_1,500.0,VID_1,1000,100,CUST_1,1.0,10.0,5.0,0.0
+ORD_2,2025-02-11,100,CRT_A,Alice,Travel,1000,PROD_1,Kitchen,40.0,20.0,Mexico,CAMP_2,100.0,VID_2,200,10,CUST_2,0.0,40.0,100.0,12.5
+ORD_3,2025-03-12,20,CRT_B,Bob,Cooking,500,PROD_3,Tech,100.0,60.0,France,CAMP_3,0.0,VID_3,50,1,CUST_1,2.0,100.0,0.0,0.0
+ORD_3,2025-03-12,20,CRT_B,Bob,Cooking,500,PROD_3,Tech,100.0,60.0,France,CAMP_3,0.0,VID_3,50,1,CUST_1,2.0,100.0,0.0,0.0

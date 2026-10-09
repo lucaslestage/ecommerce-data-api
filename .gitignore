@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Generated data
+data/*.csv
+data/*.db
+data/raw/*.csv
+
+# Tests
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
